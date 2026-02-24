@@ -96,12 +96,27 @@ Visualization:
 
 ---
 
+---
+
 ## ⚙️ Installation & Running the Project
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-ethics.git
-cd ai-ethics
+git clone https://github.com/Arnav13-stack/AI-Ethics_Dashboard.git
+cd AI-Ethics_Dashboard
+
+---
+
+## 🚀 Run Frontend (React)
+
+Navigate to frontend folder:
+
+```bash
+cd frontend
+npm install
+npm start
+
+
 
 
