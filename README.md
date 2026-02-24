@@ -32,6 +32,7 @@ Add model metadata including:
 - Sensitive Features (comma separated)
 
 Ensures ethical evaluation is tied to model context.
+<img width="1195" height="544" alt="Screenshot (5552)" src="https://github.com/user-attachments/assets/c24fa37a-7f00-4073-84b1-c17a3055b20c" />
 
 ---
 
@@ -42,6 +43,7 @@ Ensures ethical evaluation is tied to model context.
   - Model Reference
   - Run Type
 - Export results as PDF for documentation & compliance
+<img width="1202" height="576" alt="Screenshot (5553)" src="https://github.com/user-attachments/assets/586f2958-6df3-4367-92c9-cf3bbc2f0522" />
 
 ---
 
@@ -57,6 +59,7 @@ System analyzes:
 - Misinformation score
 - Deepfake detection score
 - Visual charts (bar & pie)
+<img width="1177" height="557" alt="Screenshot (5554)" src="https://github.com/user-attachments/assets/eb232fe3-bdfd-4ea5-8418-80df29550652" />
 
 ---
 
