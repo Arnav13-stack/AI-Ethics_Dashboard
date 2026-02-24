@@ -117,6 +117,10 @@ cd frontend
 npm install
 npm start
 
+## 🚀 Run Backend
+cd backend
+.\.venv\Scripts\activate
+uvicorn app.main:app --reload --port 8000
 
 
 
