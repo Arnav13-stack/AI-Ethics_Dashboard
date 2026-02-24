@@ -19,6 +19,7 @@ It provides structured model metadata management, risk scoring, red-teaming simu
   - 🗑 Delete Model
 - Displays dataset summary and sensitive attributes
 - Real-time risk breakdown panel
+<img width="1176" height="594" alt="Screenshot (5551)" src="https://github.com/user-attachments/assets/18a0dd46-87af-4f6f-9bec-d8f46061e497" />
 
 ---
 
